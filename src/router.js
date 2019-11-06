@@ -34,10 +34,3 @@ export default (
         <Route component={Finish} path="/finish" />
     </Switch>
 )
-render() {
-    return (
-        <div>
-            {router}
-        </div>
-    )
-}
